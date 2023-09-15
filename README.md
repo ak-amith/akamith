@@ -1,0 +1,2 @@
+# akamith
+My personal repository
